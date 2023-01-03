@@ -1,0 +1,23 @@
+{
+  "name": "doix-legacy",
+  "version": "0.0.1",
+  "description": "Compatibility layer for legacy applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/do-/node-doix-legacy.git"
+  },
+  "author": "Dmitry Ovsyanko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/do-/node-doix-legacy/issues"
+  },
+  "homepage": "https://github.com/do-/node-doix-legacy#readme",
+  "dependencies": {
+    "doix": "^0.0.22",
+    "uuid": "^9.0.0"
+  }
+}
