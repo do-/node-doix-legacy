@@ -1,6 +1,6 @@
 {
   "name": "doix-legacy",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Compatibility layer for legacy applications",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/do-/node-doix-legacy#readme",
   "dependencies": {
-    "doix": "^0.0.22",
+    "doix": "^0.0.23",
     "uuid": "^9.0.0"
   }
 }
